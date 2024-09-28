@@ -51,6 +51,7 @@ The notebook includes the following steps:
 - Evaluating model performance using metrics such as accuracy, confusion matrix, and AUC.
 
 ## Results
+```
 -----------------------------------------------------
           Models         |   Accuracy    |    AUC   |
 -----------------------------------------------------       
@@ -58,6 +59,6 @@ Logistic Regression      |    90.06%     |  0.6485  |
 Random Forest            |    90.22%     |  0.6663  |
 Gradient Boosting        |    90.11%     |  0.6788  |
 -----------------------------------------------------      
-
+```
 ## Conclusion
 This project demonstrates how to apply different machine learning models to a real-world classification problem. The performance of the models was compared using accuracy and AUC, and the most suitable model was identified.
